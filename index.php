@@ -211,3 +211,5 @@ array_push($productsCollection, $splintercell);
 $json = json_encode($productsCollection, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
 
 echo $json;
+
+?>
